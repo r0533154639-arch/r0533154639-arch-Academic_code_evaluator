@@ -1,0 +1,6 @@
+{
+  "name": "Academic Code Evaluator",
+  "description": "AI-powered academic teaching assistant that performs OCR on handwritten code, transcribes, evaluates correctness, assigns objective rubric scores, and provides structured feedback.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
